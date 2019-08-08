@@ -13,5 +13,6 @@
 - [ ] 10.光照强度传感器固件
 
 ## 工具 
-- [ ] 1.w60x oneshot配网 
-- [ ] 2.庆科easylink配网 
+- [x] 1.[乐鑫 esptouch配网](https://github.com/iotdevice/flutter_smartconfig "esptouch")
+- [x] 2.[w60x oneshot配网](https://github.com/iotdevice/flutter_oneshot "oneshot")
+- [ ] 3.庆科easylink配网 
