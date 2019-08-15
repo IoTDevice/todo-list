@@ -15,5 +15,5 @@
 ## 工具 
 - [x] 1.[乐鑫 esptouch配网](https://github.com/iotdevice/flutter_smartconfig "esptouch")
 - [x] 2.[w60x oneshot配网](https://github.com/iotdevice/flutter_oneshot "oneshot")
-- [ ] 3.[庆科easylink配网](https://github.com/iotdevice/flutter_easylink "easylink")
-- [ ] 4.[汉枫SmartAPLink配网](https://github.com/iotdevice/flutter_smartaplink "SmartAPLink")
+- [x] 3.[庆科easylink配网](https://github.com/iotdevice/flutter_easylink "easylink")
+- [x] 4.[汉枫SmartLink配网](https://github.com/iotdevice/flutter_smartlink "SmartLink")
