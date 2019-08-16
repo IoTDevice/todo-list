@@ -17,3 +17,4 @@
 - [x] 2.[w60x oneshot配网](https://github.com/iotdevice/flutter_oneshot "oneshot")
 - [x] 3.[庆科easylink配网](https://github.com/iotdevice/flutter_easylink "easylink")
 - [x] 4.[汉枫SmartLink配网](https://github.com/iotdevice/flutter_smartlink "SmartLink")
+- [ ] 5.[微信AirKiss配网](https://github.com/iotdevice/flutter_airkiss "AirKiss")
