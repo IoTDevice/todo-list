@@ -4,7 +4,7 @@
 - [x] 1.开关设备固件([esp8266](https://github.com/iotdevice/esp8266-switch "esp8266"),[w600](https://github.com/iotdevice/w600-switch "w600"))  
 - [x] 2.温湿度传感器([DHT11](https://github.com/iotdevice/esp8266-dht11))
 - [ ] 3.人体传感器([HC-SR501](https://github.com/iotdevice/esp8266-HC-SR501)) 
-- [ ] 4.RGB灯(含亮度调节,使用[WS2812B](https://github.com/iotdevice/esp8266-RGB-WS2812)) 
+- [x] 4.RGB灯(含亮度调节,使用[WS2812B](https://github.com/iotdevice/esp8266-RGB-WS2812)) 
 - [ ] 5.网络音乐播放器 
 - [x] 6.[斐讯DC1兼容固件](https://github.com/iotdevice/phicomm_dc1 "phicomm_dc1")
 - [ ] 7.斐讯TC1_A1兼容固件 
