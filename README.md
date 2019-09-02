@@ -11,6 +11,7 @@
 - [ ] 8.斐讯TC1_A2兼容固件 
 - [x] 9.315,433无线发射固件([串口315,433模块](https://github.com/iotdevice/serial-315-433)) 
 - [x] 10.光照强度传感器固件([GY-30](https://github.com/iotdevice/esp8266-gy-30)) 
+- [x] 11.网络摄像头([ESP32-CAM](https://github.com/iotdevice/ESP32-CAM)) 
 
 ## 工具 
 - [x] 1.[乐鑫 esptouch配网](https://github.com/iotdevice/flutter_smartconfig "esptouch")
